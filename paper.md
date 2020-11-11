@@ -6,10 +6,7 @@ add aircraft
 
 John Smith, UoL
 Gerard Capes, UoM
-
-
-# Blogs et al 2014
-Not sure what to write 
+ 
 
 # Title 
 Simulations
@@ -27,7 +24,7 @@ We simualte the evolution of particle sizes as they are transpored away from the
 The simulation indiciate that coag is the dominant growth mechanism for these particles
 
 # Figures 
-More shit
+This is where figures go
 
 # Conclusions
 This is it, we are done
