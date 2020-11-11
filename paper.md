@@ -12,6 +12,10 @@ Not sure what to write
 #Title 
 Simulations
 
+#Methodology
+We compared our measurments of particle aging with a model. 
+The model is detailed in Smith el al 2002. 
+
 
 #Simulations
 We simualte the evolution of particle sizes as they are transpored away from the sources region. 
