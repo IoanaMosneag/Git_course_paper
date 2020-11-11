@@ -23,4 +23,10 @@ We simualte the evolution of particle sizes as they are transpored away from the
 
 # Results
 The simulation indiciate that coag is the dominant growth mechanism for these particles
+
+# Figures 
 More shit
+
+#Conclusions
+This is it
+
