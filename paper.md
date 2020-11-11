@@ -3,8 +3,9 @@
 add aircraft
 
 # Author
-John Smith
-Gerard Capes
+
+John Smith, UoL
+Gerard Capes, UoM
 
 
 # Blogs et al 2014
